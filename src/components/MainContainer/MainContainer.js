@@ -1,8 +1,13 @@
 import React from 'react';
-import Main from './Main';
+import { Main, Button } from '../MainContainer';
 
 const MainContainer = () => {
-  return <Main />;
+  return (
+    <div className='app'>
+      <Main />
+      <Button />
+    </div>
+  );
 };
 
 export default MainContainer;

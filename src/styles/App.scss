@@ -4,3 +4,9 @@
 @import './libs/mixins';
 
 @import '../components/MainContainer/Main';
+
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

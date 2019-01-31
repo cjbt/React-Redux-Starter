@@ -4,3 +4,22 @@
   flex-direction: column;
   text-align: center;
 }
+
+.blue {
+  background: maroon;
+  color: white;
+}
+
+.button {
+  border-radius: 3px;
+  padding: 15px 25px;
+  border: 1px solid black;
+  max-width: 33%;
+  width: 100%;
+  text-align: center;
+  cursor: pointer;
+  font-weight: 600;
+  /* display: flex; */
+  margin: 0 auto;
+  margin-top: 10px;
+}
