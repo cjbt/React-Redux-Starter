@@ -1,3 +1,4 @@
+// import CONSTANT_VARIABLE from actions
 import {} from '../actions';
 
 const initialState = {};
