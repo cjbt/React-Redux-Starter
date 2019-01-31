@@ -12,3 +12,11 @@ My take on a starter React Redux boilerplate and file orginization
 * Redux Thunk
 * Redux Logger
 * Node Sass/SCSS
+
+### Installation
+
+Everything works out of the box. 
+```
+yarn install
+yarn start
+```
