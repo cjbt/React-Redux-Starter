@@ -2,9 +2,9 @@ import React from 'react';
 
 const Main = () => {
   return (
-    <div>
+    <div className='main'>
       <h1>Redux Starter Boilerplate</h1>
-      <h3>by Cecil John Tantay</h3>
+      <h2>by Cecil John Tantay</h2>
       <h2>Technologies</h2>
       <ul>
         <li>Redux/React Redux</li>
