@@ -2,7 +2,7 @@
 
 ## by Cecil John Tantay
 
-My take on a starter React Redux boilerplate and file orginization
+My take on a starter on an opinionated React Redux boilerplate and file orginization
 
 ### Technologies used
 
@@ -20,3 +20,13 @@ Everything works out of the box.
 yarn install
 yarn start
 ```
+
+If you prefer other styling methods:
+
+```
+yarn remove node-sass
+```
+
+## Author
+
+- (Cecil John tantay)[https://github.com/cjbt]
