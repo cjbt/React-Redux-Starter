@@ -1,6 +1,6 @@
 # React Redux Starter
 
-My take on a starter on an opinionated React Redux boilerplate and file orginization
+My take on an opinionated starter using React Redux boilerplate and file orginization
 
 ### Technologies used
 
