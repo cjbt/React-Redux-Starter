@@ -1,7 +1,5 @@
 # React Redux Starter
 
-## by Cecil John Tantay
-
 My take on a starter on an opinionated React Redux boilerplate and file orginization
 
 ### Technologies used
@@ -29,4 +27,4 @@ yarn remove node-sass
 
 ## Author
 
-- (Cecil John tantay)[https://github.com/cjbt]
+- [Cecil John Tantay](https://github.com/cjbt)
